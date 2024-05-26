@@ -1,2 +1,2 @@
 # mini-project-java
-small project using java
+snake and  ladders game using java oops concept
